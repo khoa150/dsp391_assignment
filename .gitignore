@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Model files
+*.pth
+*.pt
